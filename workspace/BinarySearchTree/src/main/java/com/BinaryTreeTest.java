@@ -11,7 +11,7 @@ public class BinaryTreeTest {
 	public void given3NumbersWhenAddedToBinaryTreeShouldReturnSize() {
 		
 		BinaryTree<Integer> BinaryTree = new BinaryTree<>();
-	    BinaryTree.add(56);
+		BinaryTree.add(56);
 		BinaryTree.add(30);
 		BinaryTree.add(70);
 		int size = BinaryTree.getSize();
