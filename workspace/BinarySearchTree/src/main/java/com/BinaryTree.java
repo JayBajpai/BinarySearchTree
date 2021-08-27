@@ -1,8 +1,7 @@
 package main.java.com;
-public class BinarySearchTree {
+public class BinaryTree<K extends Comparable<K>> {
 	
-	public static void main(String[] jay) {
-		System.out.println("hhhhhhhhhhhhhhhhh");
+	public static void main(String[] args) {
+		System.out.println("Welcome to master branch of BST");
 	}
-
 }
