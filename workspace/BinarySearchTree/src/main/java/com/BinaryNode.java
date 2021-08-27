@@ -1,4 +1,5 @@
 package main.java.com;
+
 public class BinaryNode<K extends Comparable<K>> {
 	
 	K key;
@@ -11,4 +12,5 @@ public class BinaryNode<K extends Comparable<K>> {
 		this.left = null;
 		this.right = null;
 	}
+
 }
